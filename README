@@ -27,3 +27,9 @@ Selection Sort : The algorithm divides the input list into two parts: the sublis
                  sublist, exchanging it with the leftmost unsorted element
                  (putting it in sorted order), and moving the sublist boundaries
                  one element to the right.
+
+
+Merge Sort    :  Divide the unsorted list into n sublists, each containing 1
+==========       element (a list of 1 element is considered sorted).
+                 Repeatedly merge sublists to produce new sublists until there
+                 is only 1 sublist remaining. This will be the sorted list.
