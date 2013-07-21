@@ -11,11 +11,11 @@
 #
 # Performance:
 # ============
-# Worst case       :	 ?(n2) comparisons, swaps
+# Worst case       :	 O(n^2) comparisons, swaps
 # Best case 	   :     O(n) comparisons, O(1) swaps
-# Average case     :     ?(n2) comparisons, swaps
+# Average case     :     O(n^2) comparisons, swaps
 # Worst case space
-# complexity       :	 ?(n) total, O(1) auxiliary
+# complexity       :	 O(n) total, O(1) auxiliary
 #
 # Author           :     Kuldeep Rishi
 # Created          :     21-07-2013
@@ -34,7 +34,7 @@ def insertion_sort(list):
 
 
 
-# Example Implementaion of Bubble sort
+# Example Implementaion of Insertion sort
 l = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 print 'original list        ==>  ', l
 insertion_sort(l)
