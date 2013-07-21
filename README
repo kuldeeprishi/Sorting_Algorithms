@@ -1,8 +1,17 @@
 Sorting Algorithms:
 =====================
 
-Bubble Sort :  A simple sorting algorithm that works by repeatedly stepping
-===========    through the list to be sorted, comparing each pair of adjacent
-               items and swapping them if they are in the wrong order. The pass
-               through the list is repeated until no swaps are needed, which
-               indicates that the list is sorted.
+Bubble Sort  :   A simple sorting algorithm that works by repeatedly stepping
+===========      through the list to be sorted, comparing each pair of adjacent
+                 items and swapping them if they are in the wrong order. The pass
+                 through the list is repeated until no swaps are needed, which
+                 indicates that the list is sorted.
+
+
+Insertion Sort : Insertion sort is a simple sorting algorithm that builds the
+==============   final sorted array (or list) one item at a time. Insertion sort
+                 iterates, consuming one input element each repetition, & growing
+                 a sorted output list. On a repetition, insertion sort removes one
+                 element from the input data, finds the location it belongs within
+                 the sorted list, and inserts it there. It repeats until no input
+                 elements remain.

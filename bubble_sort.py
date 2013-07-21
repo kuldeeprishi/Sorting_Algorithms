@@ -16,7 +16,7 @@
 #
 # Author           :     Kuldeep Rishi
 # Created          :     21-07-2013
-# More infor       :     http://en.wikipedia.org/wiki/Bubble_sort
+# More info        :     http://en.wikipedia.org/wiki/Bubble_sort
 #-------------------------------------------------------------------------------
 
 
@@ -38,4 +38,4 @@ def bubble_sort(list):
 l = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 print 'original list      ==>  ', l
 bubble_sort(l)
-print 'bubble sorted list ==>  ',l
+print 'bubble sorted list ==>  ', l
