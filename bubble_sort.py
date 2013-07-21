@@ -33,6 +33,8 @@ def bubble_sort(list):
 
 
 
+
+# Example Implementaion of Bubble sort
 l = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 print 'original list      ==>  ', l
 bubble_sort(l)
